@@ -1,0 +1,95 @@
+##############################################################
+# ITIL 4 Foundation — GitHub Pages Configuration
+# Theme: Just the Docs (direct gem, NOT remote_theme)
+##############################################################
+
+# ── Just the Docs theme settings ──────────────────────────
+theme: just-the-docs
+color_scheme: dark
+
+logo: "/assets/images/logo-sunrise-domain.jpg"
+
+
+# ── Site identity ─────────────────────────────────────────
+title: "ITIL 4 Foundation Study Notes"
+description: >-
+  Study notes for the ITIL 4 Foundation certification — covering the Service Value System,
+  guiding principles, four dimensions, service value chain, and all 7 in-depth practices.
+  Includes exam caveats, Mermaid diagrams, and a full cheatsheet.
+
+author: "Marco Grimaldi"
+tagline: "ITIL 4 Foundation — Exam Prep"
+
+
+# ── URLs ──────────────────────────────────────────────────
+url: "https://marcogrimaldi29.com"
+baseurl: "/itil-4-foundation"
+
+
+# Search
+search_enabled:     true
+search:
+  heading_level:    3
+  previews:         2
+
+
+# Navigation order
+nav_sort: order
+
+
+# ── Back to top button ───────────────────────────────────────────────
+back_to_top:      true
+back_to_top_text: "Back to top ↑"
+
+
+# Aux links (top-right corner)
+aux_links:
+  "🏠 Personal Hub of Marco Grimaldi":
+    - "https://marcogrimaldi29.com"
+
+aux_links_new_tab: true
+
+
+# ── Mermaid diagram support ───────────────────────────────
+# Just the Docs handles Mermaid loading automatically when `mermaid: true`
+# is set in a page's front matter. Do NOT also call mermaid.initialize()
+# in head_custom.html — that causes a double-init race that breaks diagrams.
+mermaid:
+  version: "10.9.0"
+
+# Footer
+footer_content: >-
+  Study notes by <a href="https://marcogrimaldi29.com">Marco Grimaldi</a>.
+  Content based on the official ITIL® 4 Foundation syllabus. ITIL® is a registered trademark of AXELOS Limited.
+  Not affiliated with or endorsed by AXELOS Limited. All content for study purposes only.
+
+
+# ── Plugins ───────────────────────────────────────────────
+# FIX: Removed jekyll-github-metadata — it hits the GitHub API during CI
+# without a token, causing build timeouts and failures.
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+# ── Jekyll build settings ─────────────────────────────────
+markdown:     kramdown
+highlighter:  rouge
+
+kramdown:
+  input:         GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - "*.gemspec"
