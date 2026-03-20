@@ -22,7 +22,7 @@ mermaid: true
 > - 🎯 **Purpose:** Study notes covering the full ITIL 4 Foundation syllabus — aligned to the official PeopleCert/AXELOS candidate syllabus with exact question weights per topic.
 > - 📅 **Version:** 2026
 > - ✍ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
-> - 🌐 **Published:** [marcogrimaldi29.com](https://marcogrimaldi29.com)
+> - 🌐 **Published:** [📘 ITIL 4 Foundation Study Notes](https://marcogrimaldi29.com/itil-4-foundation/)
 
 ---
 
@@ -44,7 +44,8 @@ mermaid: true
 ## 📊 Exam at a Glance
 
 ```mermaid
-pie title ITIL 4 Foundation — Marks by Learning Outcome (40 total)
+%%{init: {'theme': 'base', 'themeVariables': {'pieTitleTextSize': '15px', 'pieTitleTextColor': '#fae8ff', 'pieSectionTextSize': '13px', 'pieSectionTextColor': '#ffffff', 'pieLegendTextColor': '#fae8ff', 'pie1': '#e879f9', 'pie2': '#d946ef', 'pie3': '#c026d3', 'pie4': '#a21caf', 'pie5': '#86198f', 'pie6': '#701a75', 'pie7': '#4a044e'}}}%%
+pie showData title ITIL 4 Foundation — Marks by Learning Outcome (40 total)
     "LO7: 7 Practices In Depth" : 17
     "LO2: 7 Guiding Principles" : 6
     "LO6: 15 Practices (purpose + terms)" : 7

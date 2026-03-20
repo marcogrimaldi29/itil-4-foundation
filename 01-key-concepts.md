@@ -157,7 +157,7 @@ flowchart TD
 
 ```mermaid
 mindmap
-  root((ITIL 4\nKey Concepts))
+  root((Key Concepts))
     Service Management
       Specialized capabilities
       Enabling value

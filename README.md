@@ -10,7 +10,7 @@
 > - 🎯 **Purpose:** Study notes covering the full ITIL 4 Foundation syllabus — aligned to the official PeopleCert/AXELOS candidate syllabus with exact question weights per topic.
 > - 📅 **Version:** 2026
 > - ✍ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
-> - 🌐 **Published:** [marcogrimaldi29.com/itil-4-foundation](https://marcogrimaldi29.com/itil-4-foundation/)
+> - 🌐 **Published site:** [📘 ITIL 4 Foundation Study Notes](https://marcogrimaldi29.com/itil-4-foundation/)
 
 ---
 

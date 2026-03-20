@@ -179,7 +179,7 @@ flowchart TD
 
 ```mermaid
 mindmap
-  root((15 Exam\nPractices))
+  root((15 Exam Practices))
     General Management (4)
       Continual Improvement
       Information Security Mgmt
