@@ -33,7 +33,7 @@ The guiding principles carry **6 exam marks** — the second-highest single topi
 
 ```mermaid
 mindmap
-  root((7 Guiding\nPrinciples))
+  root((7 Guiding Principles))
     1 Focus on Value
       Who is the consumer?
       What does value mean to them?

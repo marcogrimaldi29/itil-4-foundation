@@ -246,4 +246,4 @@ flowchart TD
 
 ---
 
-[← 07 — Seven Practices](/itil-4-foundation/07-seven-practices/) | [🏠 Home](/itil-4-foundation/)
+[← 07 — Seven Practices](/itil-4-foundation/07-seven-practices/) | [Back to Home →](/itil-4-foundation/)

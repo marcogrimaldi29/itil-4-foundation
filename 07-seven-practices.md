@@ -71,7 +71,7 @@ CI is embedded throughout the SVS — not limited to a dedicated practice or tea
 
 ```mermaid
 mindmap
-  root((Continual\nImprovement))
+  root((Continual Improvement))
     Services
       Performance monitoring
       Customer feedback
