@@ -112,3 +112,19 @@ These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/mar
 📍 **Find more content at [🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 
 > ITIL® is a registered trade mark of AXELOS Limited, used under permission of AXELOS Limited. These are personal study notes and are not affiliated with or endorsed by AXELOS or PeopleCert.
+
+---
+
+## 📈 Analytics
+
+This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
+
+---
+
+## © Credits & Acknowledgements
+
+The [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme is used for a clean, documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT).
+
+Created with the help of AI. Model used: [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6). The content has been reviewed and edited by the author for accuracy and clarity, but may contain errors. Always verify against the latest [PeopleCert documentation](https://www.peoplecert.org/).
+
+---
