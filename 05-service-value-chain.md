@@ -171,28 +171,29 @@ flowchart LR
 A **value stream** is a specific combination of SVC activities tailored to a particular scenario. Different scenarios produce different value streams.
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryTextColor': '#000', 'primaryBorderColor': '#000', 'gridLineStartPadding': '200', 'fontSize': '14px', 'fontFamily': 'Arial'}, 'gantt': {'numberSectionStyles': 4}}}%%
 gantt
-    title Example Value Streams — How SVC Activities Combine
+    title SVC Value Streams — Activity Combinations
     dateFormat X
     axisFormat %s
 
-    section New Service Deployment
+    section New Service
     Plan            :a1, 0, 1
     Engage          :a2, 1, 2
-    Design & Transition :a3, 2, 4
-    Obtain / Build  :a4, 3, 5
-    Deliver & Support :a5, 5, 6
+    Design & Build  :a3, 2, 4
+    Obtain/Build    :a4, 3, 5
+    Deliver & Supp  :a5, 5, 6
     Improve         :a6, 0, 6
 
-    section Incident Resolution
-    Engage (user reports) :b1, 0, 1
-    Deliver & Support :b2, 1, 3
-    Improve (post-incident) :b3, 3, 4
+    section Incident
+    Engage (Report) :b1, 0, 1
+    Deliver & Supp  :b2, 1, 3
+    Improve (Post)  :b3, 3, 4
 
-    section Service Request Fulfilment
-    Engage (request) :c1, 0, 1
-    Obtain / Build   :c2, 1, 2
-    Deliver & Support :c3, 2, 3
+    section Service Request
+    Engage (Request) :c1, 0, 1
+    Obtain/Build     :c2, 1, 2
+    Deliver & Supp   :c3, 2, 3
 ```
 
 > ⚠ **Exam Caveat:** The Gantt above shows how the same six activities combine differently for different scenarios. The exam may show a scenario (e.g. "a user reports a service outage") and ask which SVC activities are most involved. For an incident: primarily **Engage** and **Deliver & Support**; for a new service: primarily **Plan**, **Design & Transition**, **Obtain/Build**.
