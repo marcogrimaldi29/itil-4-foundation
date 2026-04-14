@@ -96,6 +96,8 @@ flowchart TD
 #### 14. Service Request Management
 **Purpose:** To support the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
 
+### Technical Management Practices
+
 #### 15. Deployment Management
 **Purpose:** To move new or changed hardware, software, documentation, processes, or any other component to live environments. It may also be involved in deploying components to other environments for testing or staging.
 
@@ -126,52 +128,52 @@ flowchart TD
 
 ### General Management Practices (14)
 
-| Practice | Category | In LO6? |
-|----------|----------|---------|
-| Architecture management | General | — |
-| Continual improvement | General | ✅ |
-| Information security management | General | ✅ |
-| Knowledge management | General | — |
-| Measurement and reporting | General | — |
-| Organizational change management | General | — |
-| Portfolio management | General | — |
-| Project management | General | — |
-| Relationship management | General | ✅ |
-| Risk management | General | — |
-| Service financial management | General | — |
-| Strategy management | General | — |
-| Supplier management | General | ✅ |
-| Workforce and talent management | General | — |
+| Practice | Category | In LO6? | In LO7? |
+|----------|----------|---------|----------|
+| Architecture management | General | — | — |
+| Continual improvement | General | ✅ | ✅ |
+| Information security management | General | ✅ | — |
+| Knowledge management | General | — | — |
+| Measurement and reporting | General | — | — |
+| Organizational change management | General | — | — |
+| Portfolio management | General | — | — |
+| Project management | General | — | — |
+| Relationship management | General | ✅ | — |
+| Risk management | General | — | — |
+| Service financial management | General | — | — |
+| Strategy management | General | — | — |
+| Supplier management | General | ✅ | — |
+| Workforce and talent management | General | — | — |
 
 ### Service Management Practices (17)
 
-| Practice | Category | In LO6? |
-|----------|----------|---------|
-| Availability management | Service | — |
-| Business analysis | Service | — |
-| Capacity and performance management | Service | — |
-| Change enablement | Service | ✅ |
-| Incident management | Service | ✅ |
-| IT asset management | Service | ✅ |
-| Monitoring and event management | Service | ✅ |
-| Problem management | Service | ✅ |
-| Release management | Service | ✅ |
-| Service catalogue management | Service | — |
-| Service configuration management | Service | ✅ |
-| Service continuity management | Service | — |
-| Service design | Service | — |
-| Service desk | Service | ✅ |
-| Service level management | Service | ✅ |
-| Service request management | Service | ✅ |
-| Service validation and testing | Service | — |
+| Practice | Category | In LO6? | In LO7? |
+|----------|----------|---------|----------|
+| Availability management | Service | — | — |
+| Business analysis | Service | — | — |
+| Capacity and performance management | Service | — | — |
+| Change enablement | Service | ✅ | ✅ |
+| Incident management | Service | ✅ | ✅ |
+| IT asset management | Service | ✅ | — |
+| Monitoring and event management | Service | ✅ | — |
+| Problem management | Service | ✅ | ✅ |
+| Release management | Service | ✅ | — |
+| Service catalogue management | Service | — | — |
+| Service configuration management | Service | ✅ | — |
+| Service continuity management | Service | — | — |
+| Service design | Service | — | — |
+| Service desk | Service | ✅ | ✅ |
+| Service level management | Service | ✅ | ✅ |
+| Service request management | Service | ✅ | ✅ |
+| Service validation and testing | Service | — | — |
 
 ### Technical Management Practices (3)
 
-| Practice | Category | In LO6? |
-|----------|----------|---------|
-| Deployment management | Technical | ✅ |
-| Infrastructure and platform management | Technical | — |
-| Software development and management | Technical | — |
+| Practice | Category | In LO6? | In LO7? |
+|----------|----------|---------|----------|
+| Deployment management | Technical | ✅ | — |
+| Infrastructure and platform management | Technical | — | — |
+| Software development and management | Technical | — | — |
 
 ---
 
