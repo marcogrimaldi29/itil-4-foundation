@@ -29,7 +29,7 @@ Learning Outcome 7 carries **17 exam marks** — more than any other single topi
 
 ---
 
-## Continual Improvement
+## Continual Improvement (from the General Management Practices)
 {: #continual-improvement }
 
 **Purpose:** To align the organisation's practices and services with changing business needs through the ongoing identification and improvement of all services and practices.
@@ -88,7 +88,7 @@ mindmap
 
 ---
 
-## Change Enablement
+## Change Enablement (from the Service Management Practices)
 {: #change-enablement }
 
 **Purpose:** To maximise the number of successful IT changes by ensuring that risks have been properly assessed, authorising changes to proceed, and managing the change schedule.
@@ -133,7 +133,7 @@ flowchart TD
 
 ---
 
-## Incident Management
+## Incident Management (from the Service Management Practices)
 {: #incident-management }
 
 **Purpose:** To minimise the negative impact of incidents by restoring normal service operation as quickly as possible.
@@ -187,7 +187,7 @@ Priority is determined by combining **Impact** (how much damage) and **Urgency**
 
 ---
 
-## Problem Management
+## Problem Management (from the Service Management Practices)
 {: #problem-management }
 
 **Purpose:** To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.
@@ -245,7 +245,7 @@ flowchart LR
 
 ---
 
-## Service Request Management
+## Service Request Management (from the Service Management Practices)
 {: #service-request-management }
 
 **Purpose:** To support the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
@@ -284,7 +284,7 @@ flowchart LR
 
 ---
 
-## Service Desk
+## Service Desk (from the Service Management Practices)
 {: #service-desk }
 
 **Purpose:** To capture demand for incident resolution and service requests. It is the **single point of contact** between the service provider and all users.
@@ -325,7 +325,7 @@ flowchart TD
 
 ---
 
-## Service Level Management (SLM)
+## Service Level Management (SLM) (from the Service Management Practices)
 {: #service-level-management }
 
 **Purpose:** To set clear business-based targets for service levels, and to ensure that delivery of services can be properly assessed, monitored, and managed against these targets.
