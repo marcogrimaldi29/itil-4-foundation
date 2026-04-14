@@ -372,19 +372,20 @@ flowchart TD
 ### Metrics That Matter in SLM
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryTextColor': '#000', 'primaryBorderColor': '#000', 'gridLineStartPadding': '200', 'fontSize': '14px', 'fontFamily': 'Arial'}, 'gantt': {'numberSectionStyles': 4}}}%%
 gantt
-    title Example: SLA Performance Dashboard (monthly view)
+    title SLA Performance Dashboard (March 2026)
     dateFormat YYYY-MM-DD
     axisFormat %d %b
 
-    section Availability (target 99.9%)
-    Planned maintenance       :done, 2026-03-02, 2026-03-02
-    Unplanned outage          :crit, 2026-03-14, 2026-03-14
-    All other time (available) :active, 2026-03-01, 2026-03-31
+    section Availability (target: 99.9%)
+    Planned maintenance    :done, 2026-03-02, 1d
+    Unplanned outage       :crit, 2026-03-14, 1d
+    Service available      :active, 2026-03-01, 2026-03-31
 
     section Incident Response (target: P1 within 1h)
-    Within target             :done, 2026-03-01, 2026-03-25
-    Breach                    :crit, 2026-03-26, 2026-03-27
+    Incidents within SLA   :done, 2026-03-01, 2026-03-25
+    SLA breaches           :crit, 2026-03-26, 2d
 ```
 
 > The Gantt above illustrates how SLM would visually track availability and response time targets against actuals across a reporting period. Breaches (red) are escalated and discussed in the service review.
