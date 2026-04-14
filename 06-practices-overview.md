@@ -182,12 +182,12 @@ flowchart TD
 ```mermaid
 mindmap
   root((15 Exam Practices))
-    General Management (4)
+    General Management (4):::general
       Continual Improvement
       Information Security Mgmt
       Relationship Management
       Supplier Management
-    Service Management (10)
+    Service Management (10):::service
       Change Enablement
       Incident Management
       IT Asset Management
@@ -198,8 +198,12 @@ mindmap
       Service Desk
       Service Level Mgmt
       Service Request Mgmt
-    Technical Management (1)
+    Technical Management (1):::technical
       Deployment Management
+  
+  classDef general fill:#5B9BD5,stroke:#2E5C8A,color:#fff
+  classDef service fill:#70AD47,stroke:#4A7030,color:#fff
+  classDef technical fill:#9E7BB5,stroke:#634969,color:#fff
 ```
 
 ---
