@@ -180,7 +180,7 @@ gantt
     section New Service
     Plan            :a1, 0, 1
     Engage          :a2, 1, 2
-    Design & Build  :a3, 2, 4
+    Design & Trans  :a3, 2, 4
     Obtain/Build    :a4, 3, 5
     Deliver & Supp  :a5, 5, 6
     Improve         :a6, 0, 6
