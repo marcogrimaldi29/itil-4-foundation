@@ -53,11 +53,13 @@ Value requires **both** utility (fit for purpose) and warranty (fit for use). A 
 - **Customer** = defines requirements and owns outcomes
 - **User** = uses the service day-to-day
 - **Sponsor** = signs the cheque (authorises the budget)
+
 They can be the same person or three different people.
 
 ### Trap 3 — Output vs Outcome
 - **Output** = what is produced (a dashboard, a report, a deployed application)
 - **Outcome** = what is achieved because of that output (reduced MTTR, informed decisions, faster sales)
+
 The exam will give you an output and call it an outcome, or vice versa.
 
 ### Trap 4 — Principles Are Universal, Not Sequential
@@ -75,6 +77,7 @@ A known error lives in the problem management space. It means the root cause has
 ### Trap 8 — Service Request vs Incident
 - **Service request** = planned, expected, pre-defined ("I'd like a new laptop")
 - **Incident** = unplanned, unexpected, disruptive ("my laptop stopped working")
+
 Service requests should be fulfilled from a service catalogue. If they require individual assessment each time, they are not properly defined as service requests.
 
 ### Trap 9 — Standard Change Is Pre-Approved
