@@ -35,7 +35,11 @@ search:
 
 # Navigation order
 nav_sort: order
-
+nav_external_links:
+  - title: "🏠 Personal Hub of Marco Grimaldi"
+    url:   "https://marcogrimaldi29.com"
+  - title: "🛬 Landing Page: Study Notes"
+    url: https://marcogrimaldi29.com/study-notes/
 
 # ── Back to top button ───────────────────────────────────────────────
 back_to_top:      true
