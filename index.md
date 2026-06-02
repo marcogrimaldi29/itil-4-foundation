@@ -30,14 +30,14 @@ mermaid: true
 
 | File | Coverage | Exam Marks |
 |------|----------|-----------|
-| [📖 01 — Key Concepts of Service Management](01-key-concepts.md) | Service, value, utility, warranty, stakeholders, service relationships | **5** |
-| [🧭 02 — The 7 Guiding Principles](02-guiding-principles.md) | All 7 principles — nature, use, and interaction | **6** |
-| [🔷 03 — The 4 Dimensions of Service Management](03-four-dimensions.md) | Organizations & people, info & tech, partners & suppliers, value streams | **2** |
-| [⚙ 04 — The Service Value System (SVS)](04-service-value-system.md) | SVS overview: governance, guiding principles, SVC, practices, CI | **1** |
-| [🔗 05 — The Service Value Chain (SVC)](05-service-value-chain.md) | Plan, Improve, Engage, Design & Transition, Obtain/Build, Deliver & Support | **2** |
-| [📦 06 — Practices Overview (15 Practices)](06-practices-overview.md) | Purpose & key terms for all 15 exam practices + full 34-practice catalogue | **7** |
-| [🔬 07 — Seven Practices In Depth](07-seven-practices.md) | Deep dive: CI, Change Enablement, Incident, Problem, Service Request, Service Desk, SLM | **17** |
-| [🎯 08 — Exam Caveats & Cheatsheet](08-exam-caveats-cheatsheet.md) | Exam traps, must-memorise definitions, decision trees, flash cards | — |
+| [📖 01 — Key Concepts of Service Management](/itil-4-foundation/01-key-concepts/) | Service, value, utility, warranty, stakeholders, service relationships | **5** |
+| [🧭 02 — The 7 Guiding Principles](/itil-4-foundation/02-guiding-principles/) | All 7 principles — nature, use, and interaction | **6** |
+| [🔷 03 — The 4 Dimensions of Service Management](/itil-4-foundation/03-four-dimensions/) | Organizations & people, info & tech, partners & suppliers, value streams | **2** |
+| [⚙ 04 — The Service Value System (SVS)](/itil-4-foundation/04-service-value-system/) | SVS overview: governance, guiding principles, SVC, practices, CI | **1** |
+| [🔗 05 — The Service Value Chain (SVC)](/itil-4-foundation/05-service-value-chain/) | Plan, Improve, Engage, Design & Transition, Obtain/Build, Deliver & Support | **2** |
+| [📦 06 — Practices Overview (15 Practices)](/itil-4-foundation/06-practices-overview/) | Purpose & key terms for all 15 exam practices + full 34-practice catalogue | **7** |
+| [🔬 07 — Seven Practices In Depth](/itil-4-foundation/07-seven-practices/) | Deep dive: CI, Change Enablement, Incident, Problem, Service Request, Service Desk, SLM | **17** |
+| [🎯 08 — Exam Caveats & Cheatsheet](/itil-4-foundation/08-exam-caveats-cheatsheet/) | Exam traps, must-memorise definitions, decision trees, flash cards | — |
 
 ---
 
@@ -73,16 +73,16 @@ pie showData title ITIL 4 Foundation — Marks by Learning Outcome (40 total)
 
 | I need to know… | Go to |
 |-----------------|-------|
-| Definition of service, utility, warranty | [01 — Key Concepts § Definitions](01-key-concepts.md#core-definitions) |
-| The 7 guiding principles | [02 — Guiding Principles](02-guiding-principles.md) |
-| The 4 dimensions and PESTLE | [03 — Four Dimensions](03-four-dimensions.md) |
-| SVS components overview | [04 — SVS](04-service-value-system.md) |
-| What each SVC activity does | [05 — Service Value Chain](05-service-value-chain.md) |
-| Purpose of all 15 exam practices | [06 — Practices Overview](06-practices-overview.md) |
-| Continual Improvement model steps | [07 — Seven Practices § Continual Improvement](07-seven-practices.md#continual-improvement) |
-| Incident vs Problem vs Known Error | [07 — Seven Practices § Problem Management](07-seven-practices.md#problem-management) |
-| Change types (Normal / Standard / Emergency) | [07 — Seven Practices § Change Enablement](07-seven-practices.md#change-enablement) |
-| All exam traps in one place | [08 — Exam Caveats](08-exam-caveats-cheatsheet.md) |
+| Definition of service, utility, warranty | [01 — Key Concepts § Definitions]/itil-4-foundation/01-key-concepts/) |
+| The 7 guiding principles | [02 — Guiding Principles](/itil-4-foundation/02-guiding-principles/) |
+| The 4 dimensions and PESTLE | [03 — Four Dimensions](/itil-4-foundation/03-four-dimensions/) |
+| SVS components overview | [04 — SVS](/itil-4-foundation/04-service-value-system/) |
+| What each SVC activity does | [05 — Service Value Chain](/itil-4-foundation/05-service-value-chain/) |
+| Purpose of all 15 exam practices | [06 — Practices Overview](/itil-4-foundation/06-practices-overview/) |
+| Continual Improvement model steps | [07 — Seven Practices § Continual Improvement](/itil-4-foundation/07-seven-practices/#continual-improvement) |
+| Incident vs Problem vs Known Error | [07 — Seven Practices § Problem Management](/itil-4-foundation/07-seven-practices/#problem-management) |
+| Change types (Normal / Standard / Emergency) | [07 — Seven Practices § Change Enablement](/itil-4-foundation/07-seven-practices/#change-enablement) |
+| All exam traps in one place | [08 — Exam Caveats](/itil-4-foundation/08-exam-caveats-cheatsheet/) |
 
 ---
 
