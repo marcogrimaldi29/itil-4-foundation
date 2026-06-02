@@ -90,6 +90,12 @@ This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
 
 ---
 
+## ⭐ Found These Notes Helpful?
+
+If this repository has helped you study for the ITIL 4 Foundation exam, consider giving it a **star on GitHub** — it helps others discover these notes and keeps the motivation going! 🙌
+
+---
+
 ## © Credits & Acknowledgements
 
 The [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme is used for a clean, documentation-style layout. Licensed under [MIT](https://opensource.org/license/MIT).
