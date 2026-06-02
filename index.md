@@ -73,7 +73,7 @@ pie showData title ITIL 4 Foundation — Marks by Learning Outcome (40 total)
 
 | I need to know… | Go to |
 |-----------------|-------|
-| Definition of service, utility, warranty | [01 — Key Concepts § Definitions]/itil-4-foundation/01-key-concepts/) |
+| Definition of service, utility, warranty | [01 — Key Concepts § Definitions](/itil-4-foundation/01-key-concepts/#core-definitions) |
 | The 7 guiding principles | [02 — Guiding Principles](/itil-4-foundation/02-guiding-principles/) |
 | The 4 dimensions and PESTLE | [03 — Four Dimensions](/itil-4-foundation/03-four-dimensions/) |
 | SVS components overview | [04 — SVS](/itil-4-foundation/04-service-value-system/) |
