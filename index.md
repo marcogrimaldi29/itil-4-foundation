@@ -14,7 +14,7 @@ mermaid: true
 {: .fs-5 .fw-300 }
 
 [![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/itil-4-foundation/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/itil-4-foundation/actions/workflows/pages.yml)
-[![Personal Hub of Marco Grimaldi](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
+[![marcogrimaldi29.com](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
 
 [Start Studying →](/itil-4-foundation/01-key-concepts/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/marcogrimaldi29/itil-4-foundation){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -109,7 +109,7 @@ flowchart TD
 
 These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Consultant, Language Trainer & Lifelong Learner.
 
-📍 **Find more content at [🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
+📍 **Find more content at [🏠 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 
 > ITIL® is a registered trade mark of AXELOS Limited, used under permission of AXELOS Limited. These are personal study notes and are not affiliated with or endorsed by AXELOS or PeopleCert.
 

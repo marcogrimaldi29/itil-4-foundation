@@ -3,7 +3,7 @@
 **Study Notes & Exam Prep — 2026 Edition**
 
 [![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/itil-4-foundation/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/itil-4-foundation/actions/workflows/pages.yml)
-[![Personal Hub of Marco Grimaldi](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
+[![marcogrimaldi29.com](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
 
 [**📖 View Published Notes →**](https://marcogrimaldi29.com/itil-4-foundation/)
 
@@ -78,7 +78,7 @@ It is a prerequisite for all higher ITIL 4 qualifications:
 
 These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Consultant, Language Trainer & Lifelong Learner.
 
-📍 **Find more content at [🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
+📍 **Find more content at [🏠 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 
 > The website is continuously updated and based on my personal study notes and experiences. If you have any feedback, suggestions, or corrections, feel free to [reach out](https://marcogrimaldi29.com/contact/)!
 
