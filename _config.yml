@@ -36,7 +36,7 @@ search:
 # Navigation order
 nav_sort: order
 nav_external_links:
-  - title: "🏠 Personal Hub of Marco Grimaldi"
+  - title: "🏠 marcogrimaldi29.com"
     url:   "https://marcogrimaldi29.com"
   - title: "🛬 Landing Page: Study Notes"
     url: https://marcogrimaldi29.com/study-notes/
@@ -48,7 +48,7 @@ back_to_top_text: "Back to top ↑"
 
 # Aux links (top-right corner)
 aux_links:
-  "🏠 Personal Hub of Marco Grimaldi":
+  "🏠 marcogrimaldi29.com":
     - "https://marcogrimaldi29.com"
 
 aux_links_new_tab: true
@@ -64,8 +64,8 @@ mermaid:
 # Footer
 footer_content: >-
   Study notes by <a href="https://marcogrimaldi29.com">Marco Grimaldi</a>.
-  Content based on the official ITIL® 4 Foundation syllabus. ITIL® is a registered trademark of AXELOS Limited.
-  Not affiliated with or endorsed by AXELOS Limited. All content for study purposes only.
+  Content based on the official ITIL® 4 Foundation syllabus. ITIL® 4 is a registered trademark of AXELOS Limited.
+  Not affiliated with or endorsed by AXELOS Limited. All content for study purposes only and does not replace the official syllabus.
 
 
 # ── Plugins ───────────────────────────────────────────────
