@@ -13,7 +13,6 @@ mermaid: true
 **Study Notes & Exam Prep — 2026 Edition**
 {: .fs-5 .fw-300 }
 
-[![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/itil-4-foundation/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/itil-4-foundation/actions/workflows/pages.yml)
 [![marcogrimaldi29.com](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
 
 [Start Studying →](/itil-4-foundation/01-key-concepts/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -118,14 +117,6 @@ These notes are maintained by **[Marco Grimaldi](https://www.linkedin.com/in/mar
 ## 📈 Analytics
 
 This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
-
----
-
-## ⭐ Found These Notes Helpful?
-
-If this repository has helped you study for the ITIL 4 Foundation exam, consider giving it a **star on GitHub** — it helps others discover these notes and keeps the motivation going! 🙌
-
-[⭐ Star this repo](https://github.com/marcogrimaldi29/itil-4-foundation){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
