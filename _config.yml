@@ -25,6 +25,10 @@ tagline: "ITIL 4 Foundation — Exam Prep"
 url: "https://marcogrimaldi29.com"
 baseurl: "/itil-4-foundation"
 
+# ── Personal website back-link ────────────────────────────
+personal_site_url:   "https://marcogrimaldi29.com"
+personal_site_label: "marcogrimaldi29.com"
+
 
 # Search
 search_enabled:     true
