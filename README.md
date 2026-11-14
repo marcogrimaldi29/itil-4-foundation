@@ -91,7 +91,7 @@ This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
 
 ## 🐞 Spotted a Mistake?
 
-PeopleCert updates the ITIL 4 syllabus and exam from time to time, so if something here is wrong or out of date, please [report an issue](https://github.com/marcogrimaldi29/itil-4-foundation/issues).
+PeopleCert updates the ITIL 4 syllabus and exam from time to time, so if something here is wrong or out of date, please [report an issue](https://github.com/marcogrimaldi29/itil-4-foundation/issues). The [contributing guide](.github/CONTRIBUTING.md) explains what makes a report quick to fix and what's out of scope.
 
 ---
 
