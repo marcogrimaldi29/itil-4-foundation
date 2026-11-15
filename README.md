@@ -11,6 +11,9 @@
 > - ✍ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
 > - 🌐 **Published site:** [📘 ITIL 4 Foundation Study Notes](https://marcogrimaldi29.com/itil-4-foundation/)
 
+> [!NOTE]
+> **ITIL 4 or ITIL (Version 5)?** These notes cover the **ITIL 4 Foundation** exam. PeopleCert now also offers [ITIL Foundation (Version 5)](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-5-foundation-version-50-4154) as the entry point into ITIL. Both versions run in parallel for now, and PeopleCert's current plan is to sunset all ITIL 4 modules on **31 December 2027**. If you already hold ITIL 4 Foundation, you don't need to retake Foundation: the optional [Foundation Bridge (Version 5)](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-foundation-bridge-version-5-4158) covers what's new, and ITIL 4 qualifications still count as prerequisites for the higher ITIL (Version 5) certifications. Check PeopleCert's [ITIL FAQ](https://www.peoplecert.org/help-and-support/faq-itil) for the latest dates before you book.
+
 ---
 
 ## 🗺 What's in This Repository?
@@ -53,6 +56,8 @@ It is a prerequisite for all higher ITIL 4 qualifications:
 - **ITIL 4 Managing Professional** (4 modules) — for practitioners managing IT-enabled services
 - **ITIL 4 Strategic Leader** (2 modules) — for those involved in digital strategy
 - **ITIL 4 Master** — the highest designation, requiring both MP and SL
+
+PeopleCert also recognises ITIL 4 qualifications as prerequisites for the higher-level ITIL (Version 5) certifications, as its [ITIL FAQ](https://www.peoplecert.org/help-and-support/faq-itil) explains.
 
 ---
 

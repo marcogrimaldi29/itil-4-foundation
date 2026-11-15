@@ -42,6 +42,8 @@ mermaid: true
 | PESTLE factors | **6** (Political, Economic, Social, Technical, Legal, Environmental) |
 | Steps in the Continual Improvement Model | **7** |
 
+> ⚠ **Exam Trap — Book the right exam:** ITIL 4 Foundation and [ITIL Foundation (Version 5)](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-5-foundation-version-50-4154) have the same format (40 multiple-choice questions, 60 minutes, closed book, 65% to pass) but different content and different official books. These notes are for **ITIL 4 Foundation**, so check that your booking says so.
+
 ---
 
 ## Named Exam Traps
